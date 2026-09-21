@@ -12,3 +12,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference is that rebase completely changes the history of your changes for a smooth timeline, while merge keeps the orignal with the new changes. 
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking foward to learning more about Data Science and how I can apply them to day to day life.
